@@ -1,0 +1,3 @@
+npm i cordova-file-cache
+sqlite
+webview
